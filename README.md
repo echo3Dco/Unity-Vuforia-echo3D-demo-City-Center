@@ -30,5 +30,7 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 ## Screenshots
 
 Video available in the [Screenshots](/Screenshots) folder
+
+![video](/Screenshots/vuforia-echoAR-demo.gif)
 ![console](/Screenshots/console.jpg)
 ![metadata](/Screenshots/metadata.jpg)
