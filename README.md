@@ -1,4 +1,4 @@
-# Unity-Vuforia-echoAR demo City Center
+# Unity-Vuforia-echoAR-demo-City-Center
 In the future, ADs and virtual decoration in the city will be personalized. With the help of echoAR and AR devices, people can have a realistic experience in world.
 In this demo, you will have the ability to pick your own city center based on your interest in either Island or Coral.
 
